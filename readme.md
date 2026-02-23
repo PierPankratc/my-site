@@ -9,3 +9,4 @@ My name is Peter and now i study in Netology on special **'Python Backend Develo
 Это мой первый сайт, поэтому не судите строго)
 
 
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/4f445621-450d-4a99-8203-fd6d845abc53" />
